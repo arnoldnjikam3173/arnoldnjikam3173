@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnoldnjikam3173
 - 👀 I’m interested in programming, networking
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning front-end development, windows server administration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
